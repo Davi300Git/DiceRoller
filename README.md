@@ -43,7 +43,7 @@ Para compreender ou modificar este projeto, é recomendado ter conhecimento pré
 
 📸 Captura de Tela
 Código e app rodando no emulador:
-<img src="https://github.com/Davi300Git/DiceRoller/assets/your-username/4cdc4904-9e90-415a-9d63-546a7bf6a034.png" alt="Dice Roller rodando no emulador com o código" width="800" />
+<img src="assets/" alt="Dice Roller rodando no emulador com o código" width="800" />
 📚 Créditos
 Este projeto é baseado no conteúdo do curso Android Basics with Compose oferecido pelo Google.
 
