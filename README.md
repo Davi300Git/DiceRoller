@@ -35,3 +35,17 @@ Para compreender ou modificar este projeto, é recomendado ter conhecimento pré
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Davi300Git/DiceRoller.git
+2. Abra o projeto no Android Studio
+
+3. Conecte um dispositivo Android ou utilize um emulador
+
+4. Execute o app com o botão Run 'app'
+
+📸 Captura de Tela
+Código e app rodando no emulador:
+<img src="https://github.com/Davi300Git/DiceRoller/assets/your-username/4cdc4904-9e90-415a-9d63-546a7bf6a034.png" alt="Dice Roller rodando no emulador com o código" width="800" />
+📚 Créditos
+Este projeto é baseado no conteúdo do curso Android Basics with Compose oferecido pelo Google.
+
+📄 Licença
+Este projeto está licenciado sob a MIT License.
