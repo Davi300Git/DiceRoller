@@ -42,10 +42,14 @@ Para compreender ou modificar este projeto, é recomendado ter conhecimento pré
 4. Execute o app com o botão Run 'app'
 
 📸 Captura de Tela
+
 Código e app rodando no emulador:
-<img src="assets/" alt="Dice Roller rodando no emulador com o código" width="800" />
+<img src="assets/Captura de tela 2025-05-18 014248.png" alt="Dice Roller rodando no emulador com o código" width="800" />
+
 📚 Créditos
+
 Este projeto é baseado no conteúdo do curso Android Basics with Compose oferecido pelo Google.
 
 📄 Licença
+
 Este projeto está licenciado sob a MIT License.
